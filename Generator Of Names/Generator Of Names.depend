@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1688863263 source:c:\users\matias reimondez\documents\programacion\algo\main.cpp
+	<iostream>
+	"Window.cpp"
+
+1688863553 c:\users\matias reimondez\documents\programacion\algo\window.cpp
+	"WINDOW.h"
+	<ctime>
+	<cstdlib>
+
+1688863209 c:\users\matias reimondez\documents\programacion\algo\window.h
+	<string>
+	<stdio.h>
+	<string.h>
+	<Windows.h>
+
+1688852230 c:\users\matias reimondez\documents\programacion\algo\namesramdom.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+
+1688863263 source:c:\users\matias reimondez\documents\programacion\generator of names\main.cpp
+	<iostream>
+	"Window.cpp"
+
+1688922589 c:\users\matias reimondez\documents\programacion\generator of names\window.cpp
+	"WINDOW.h"
+	<ctime>
+	<cstdlib>
+
+1688863209 c:\users\matias reimondez\documents\programacion\generator of names\window.h
+	<string>
+	<stdio.h>
+	<string.h>
+	<Windows.h>
+
